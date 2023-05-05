@@ -1,0 +1,4 @@
+post_title,post_content,post_type,post_status
+First post,This is the content of the first post,random_post,publish
+Second post,This is the content of the second post,random_post,publish
+Third post,This is the content of the third post,random_post,draft
